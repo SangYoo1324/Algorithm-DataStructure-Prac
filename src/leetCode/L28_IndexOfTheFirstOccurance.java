@@ -1,6 +1,6 @@
 package leetCode;
 
-public class IndexOfTheFirstOccurance_28 {
+public class L28_IndexOfTheFirstOccurance {
     public static void main(String[] args) {
         Solution28 solution28 = new Solution28();
 

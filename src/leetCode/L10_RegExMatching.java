@@ -1,6 +1,6 @@
 package leetCode;
 
-public class RegExMatching {
+public class L10_RegExMatching {
     public static void main(String[] args) {
         Solution10 solution10 = new Solution10();
 //        System.out.println(solution10.isMatch("aa","a"));

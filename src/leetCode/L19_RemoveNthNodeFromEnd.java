@@ -10,9 +10,7 @@ package leetCode;
 //      ListNode(int val, ListNode next) { this.val = val; this.next = next; }
 //  }
 
-import java.util.List;
-
-public class RemoveNthNodeFromEnd_19 {
+public class L19_RemoveNthNodeFromEnd {
     public static void main(String[] args) {
         ListNode list1 = new ListNode(1);
         ListNode list2 = new ListNode(2);

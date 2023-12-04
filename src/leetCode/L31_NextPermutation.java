@@ -1,6 +1,6 @@
 package leetCode;
 
-public class NextPermutation_31 {
+public class L31_NextPermutation {
 
     public static void main(String[] args) {
 

@@ -7,7 +7,7 @@ import java.util.List;
 //-4,-1,-1,0,1,2
 //-1,-1,0,1
 //-2,0,1,1,2
-public class ThreeSum {
+public class L15_ThreeSum {
     public static void main(String[] args) {
         Solution15 solution15 = new Solution15();
         solution15.threeSum(new int[]{0,0,0,0}).stream().forEach((e)->{

@@ -1,10 +1,8 @@
 package leetCode;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
-public class MedianOfTwoSortedArrays {
+public class L4_MedianOfTwoSortedArrays {
     public static void main(String[] args) {
         Solution4 solution4 = new Solution4();
         System.out.println(" 결과값::"+

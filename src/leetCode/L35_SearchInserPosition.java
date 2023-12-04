@@ -1,6 +1,6 @@
 package leetCode;
 
-public class SearchInserPosition_35 {
+public class L35_SearchInserPosition {
     public static void main(String[] args) {
         Solution35 solution35 = new Solution35();
         int[] arr= new int[]{1,3,5,6};

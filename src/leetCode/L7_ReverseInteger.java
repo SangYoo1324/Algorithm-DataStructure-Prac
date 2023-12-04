@@ -1,6 +1,6 @@
 package leetCode;
 
-public class ReverseInteger {
+public class L7_ReverseInteger {
     public static void main(String[] args) {
         Solution7 solution7 = new Solution7();
         System.out.println(solution7.reverse(25));

@@ -1,8 +1,6 @@
 package leetCode;
 
-import java.util.List;
-
-public class MergeTwoSortedLists_21 {
+public class L21_MergeTwoSortedLists {
     public static void main(String[] args) {
         ListNode list1 = new ListNode(1);
         ListNode list2 = new ListNode(3);

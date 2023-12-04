@@ -1,6 +1,6 @@
 package leetCode;
 
-public class ContainerWithMostWater {
+public class L11_ContainerWithMostWater {
     public static void main(String[] args) {
         Solution11 solution11 = new Solution11();
         System.out.println(    solution11.maxArea(new int[]{1, 8, 6, 2, 5, 4, 8, 3, 7}));

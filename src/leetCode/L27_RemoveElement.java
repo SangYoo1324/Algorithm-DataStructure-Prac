@@ -2,7 +2,7 @@ package leetCode;
 
 import java.util.Arrays;
 
-public class RemoveElement_27 {
+public class L27_RemoveElement {
     public static void main(String[] args) {
         Solution27 solution27 = new Solution27();
         //0,1,2,2,3,0,4,2

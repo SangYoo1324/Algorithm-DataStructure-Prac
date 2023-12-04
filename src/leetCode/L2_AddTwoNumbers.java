@@ -1,11 +1,6 @@
 package leetCode;
 
-import java.sql.SQLOutput;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Stack;
-
-public class AddTwoNumbers {
+public class L2_AddTwoNumbers {
     public static void main(String[] args) {
         ListNode l1 = new ListNode(2,new ListNode(4,new ListNode(3)));
         ListNode l2 = new ListNode(5,new ListNode(6,new ListNode(4)));

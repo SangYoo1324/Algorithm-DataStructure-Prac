@@ -1,6 +1,6 @@
 package leetCode;
 
-public class RomanToInteger {
+public class L13_RomanToInteger {
     public static void main(String[] args) {
         Solution13 solution13 = new Solution13();
         System.out.println(solution13.romanToInt("MCMD"));

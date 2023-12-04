@@ -1,6 +1,6 @@
 package leetCode;
 
-public class Atoi {
+public class L8_Atoi {
     public static void main(String[] args) {
         Solution8 solution8 = new Solution8();
         //words and 987   //        -42

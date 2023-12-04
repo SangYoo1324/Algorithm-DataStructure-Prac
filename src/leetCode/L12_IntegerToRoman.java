@@ -1,8 +1,6 @@
 package leetCode;
 
-import java.util.Stack;
-
-public class IntegerToRoman {
+public class L12_IntegerToRoman {
     public static void main(String[] args) {
         Solution12 solution12 = new Solution12();
         System.out.println(solution12.intToRoman(3));

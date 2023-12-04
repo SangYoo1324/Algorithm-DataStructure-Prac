@@ -1,8 +1,6 @@
 package leetCode;
 
-import codility.bst.Main;
-
-public class DivideTwoIntegers_29 {
+public class L29_DivideTwoIntegers {
     public static void main(String[] args) {
         Solution29 solution29 = new Solution29();
 

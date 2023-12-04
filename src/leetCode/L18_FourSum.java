@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class FourSum_18 {
+public class L18_FourSum {
     public static void main(String[] args) {
         int[] nums = new int[]{2,2,2,2,2};
         Solution18 solution18 = new Solution18();

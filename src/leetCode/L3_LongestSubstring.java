@@ -2,7 +2,7 @@ package leetCode;
 
 import java.util.*;
 
-public class LongestSubstring {
+public class L3_LongestSubstring {
     public static void main(String[] args) {
         Solution3 solution3 = new Solution3();
         //bpfbhmipx, abccde, abc

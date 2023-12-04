@@ -1,6 +1,6 @@
 package leetCode;
 
-public class MergeKSortedLists_23 {
+public class L23_MergeKSortedLists {
     public static void main(String[] args) {
 
         ListNode list1 = new ListNode(1);

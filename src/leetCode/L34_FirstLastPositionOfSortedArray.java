@@ -2,7 +2,7 @@ package leetCode;
 
 import java.util.Arrays;
 
-public class FirstLastPositionOfSortedArray_34 {
+public class L34_FirstLastPositionOfSortedArray {
 
     public static void main(String[] args) {
         int[] arr = new int[]{2,2};

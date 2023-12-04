@@ -1,6 +1,6 @@
 package leetCode;
 
-public class PalindromeNumber {
+public class L9_PalindromeNumber {
     public static void main(String[] args) {
 
         Solution9 solution9 = new Solution9();

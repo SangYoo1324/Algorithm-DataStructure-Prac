@@ -1,6 +1,6 @@
 package leetCode;
 
-public class LongestPanlindromicSubstring {
+public class L5_LongestPanlindromicSubstring {
     public static void main(String[] args) {
         Solution5 solution5  = new Solution5();
         //cbbd

@@ -1,8 +1,6 @@
 package leetCode;
 
-import com.sun.security.jgss.GSSUtil;
-
-public class SearchInRotatedSortedArray_33 {
+public class L33_SearchInRotatedSortedArray {
     public static void main(String[] args) {
         Solution33 solution33 = new Solution33();
         int[]  nums = new int[]{4,5,6,7,0,1,2};

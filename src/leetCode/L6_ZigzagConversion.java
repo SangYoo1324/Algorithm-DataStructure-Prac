@@ -1,6 +1,6 @@
 package leetCode;
 
-public class ZigzagConversion {
+public class L6_ZigzagConversion {
 
     public static void main(String[] args) {
         Solution6 solution6 = new Solution6();
